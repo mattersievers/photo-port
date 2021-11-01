@@ -29,7 +29,7 @@ function Nav () {
                 <ul className="flex-row">
                     <li className="mx-2">
                         <a data-testid="about" href="#about">
-                            About Me
+                            About me
                         </a>
                     </li>
                     <li>
